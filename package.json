@@ -1,0 +1,20 @@
+{
+  "name": "@hulpi/hulpi-prettier-config",
+  "version": "1.0.0",
+  "description": "Hulpi Prettier config",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hulpi-dev/hulpi-prettier-config.git"
+  },
+  "author": "Hulpi <dev@hulpi.co>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "release": "npm publish --access=public"
+  },
+  "bugs": {
+    "url": "https://github.com/hulpi-dev/hulpi-prettier-config/issues"
+  },
+  "homepage": "https://github.com/hulpi-dev/hulpi-prettier-config#readme"
+}
